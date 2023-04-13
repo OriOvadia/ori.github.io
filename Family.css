@@ -1,0 +1,63 @@
+body{
+	border: 5px solid black;
+	padding: 10px;
+	background-image: url(https://images.unsplash.com/photo-1553356084-58ef4a67b2a7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80) ;
+	background-size: cover;
+}
+ul {
+	text-align: center;
+  list-style: none;
+  font-size: 300%;
+  text-decoration: underline;
+}
+.mom{
+	text-align: left;
+	text-decoration: underline;
+}
+.dad{
+	text-align: right;
+	text-decoration: underline;
+}
+.reut{
+	text-align: left;
+	text-decoration: underline;
+}
+.eden{
+	text-align: right;
+	text-decoration: underline;
+}
+.yair{
+	text-align: left;
+	text-decoration: underline;
+}
+.next{
+	text-align: center;
+	width: 100px height 100px;
+	border: 5px solid black ;
+	display: inline-block;
+	padding: 10px;
+}
+p{
+	text-decoration: underline;
+}
+.family{
+	text-decoration: underline;
+}
+.try{
+	font-size: 80%;
+	text-align: center;
+}
+.home{
+	border: 5px solid black;
+	display: inline-block;
+	padding: 10px;
+	margin: 10px;
+	font-size: 210%;
+	background-color: white;
+	text-decoration: none;
+		justify-content: center;
+
+}
+h1 {
+	text-align: center;
+}
